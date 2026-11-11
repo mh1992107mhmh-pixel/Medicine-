@@ -1,0 +1,6 @@
+{
+  "name": "دوائي رفيقي - تذكير الدواء التشاركي",
+  "description": "تطبيق التذكير بمواعيد الدواء لعدة مرضى ومتابعين دون حسابات مع دعم الإشعارات الصوتية والمزامنة التشاركية بالرموز وQR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
